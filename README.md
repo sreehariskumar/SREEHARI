@@ -18,10 +18,6 @@ Feel free to reach out if you have any questions or just want to chat!
 - Scripting: Bash & Python
 
 
-## Education
-
-I have a Bachelor's degree in Computer Science from Anna University
-
 
 <br />
 <br />

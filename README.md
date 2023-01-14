@@ -19,6 +19,9 @@ Feel free to reach out if you have any questions or just want to chat!
 
 You could also visit my [Medium](https://medium.com/@ssksreehari) profile for some of my tutorials.
 
-Thanks for visiting!
+<br />
+<br />
 
-- Sreehari
+### Thanks for visiting!
+
+#### Sreehari

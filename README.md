@@ -25,7 +25,7 @@ Feel free to reach out if you have any questions or just want to chat!
 <br />
 <br />
 
-You can also visit my [Medium](https://medium.com/@ssksreehari) profile to read my articles.
+Please visit my [Medium](https://medium.com/@ssksreehari) profile to read my articles.
 
 <br />
 <br />

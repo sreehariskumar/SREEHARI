@@ -1,12 +1,16 @@
 # Welcome to my Github Profile
 
-Hi! 
-My name is Sreehari S Kumar and I'm a Linux Administrator trying to change my profile as DevOps Engineer. I specialize in Linux Server Administration.
+Hello, my name is Sreehari S Kumar and I am a Linux Administrator seeking to transition my career to a DevOps Engineer role. My expertise is in Linux Server Administration.
 
 I'm passionate about using technology and to work automation and making sure that systems are running smoothly.. I'm always learning new technologies and exploring new ideas.
 
-On my Github profile you'll find projects I've worked on, as well as tutorials and resources for learning DevOps related activities. 
-Feel free to reach out if you have any questions or just want to chat!
+On my GitHub profile, you will find examples of my work in automating and optimizing Linux systems.
+
+Don't hesitate to [contact](mailto:ssksreehari@gmail.com) me if you have any queries or simply want to have a conversation.
+
+Thank you for visiting my profile, and I look forward to connecting with you.
+
+
 
 
 ## Skills

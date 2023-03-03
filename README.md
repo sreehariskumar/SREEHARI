@@ -29,12 +29,8 @@ Don't hesitate to [contact](mailto:ssksreehari@gmail.com) me if you have any que
 <br />
 <br />
 
-Connect with me:
-
-<a href="mailto:ssksreehari@gmail.com"><i class="far fa-envelope fa-2x" style="color:#D44638;"></i></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sreehari_s_kumar/"><i class="fab fa-instagram fa-2x" style="color:#bc2a8d;"></i></a>&nbsp;&nbsp;
-<a href="https://medium.com/@ssksreehari"><i class="fab fa-medium fa-2x" style="color:#00ab6c;"></i></a>&nbsp;&nbsp;
-
+### Kindly visit my [medium](https://medium.com/@ssksreehari) profile to read my articles.
+    
 <br />
 <br />
 

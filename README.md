@@ -22,12 +22,20 @@ Don't hesitate to [contact](mailto:ssksreehari@gmail.com) me if you have any que
 - Version Control: Git
 
 
+## Follow me
+Connect with me on social media:
+
+<img align="left" alt="Medium" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />
+<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />
+<img align="left" alt="Gmail" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gmail.svg" />
+
+
 
 <br />
 <br />
 
 
-Please visit my [Medium](https://medium.com/@ssksreehari) profile to read my articles.
 
 <br />
 <br />

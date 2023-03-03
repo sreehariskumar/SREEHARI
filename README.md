@@ -32,7 +32,6 @@ Don't hesitate to [contact](mailto:ssksreehari@gmail.com) me if you have any que
 ### Kindly visit my [medium](https://medium.com/@ssksreehari) profile to read my articles.
     
 <br />
-<br />
 
 ### Thank you for visiting my profile, and I look forward to connecting with you.
 

@@ -29,7 +29,7 @@ Don't hesitate to [contact](mailto:ssksreehari@gmail.com) me if you have any que
 <br />
 <br />
 
-### Kindly visit my [medium](https://medium.com/@ssksreehari) profile to read my articles.
+Kindly visit my [medium](https://medium.com/@ssksreehari) profile to read my articles.
     
 <br />
 

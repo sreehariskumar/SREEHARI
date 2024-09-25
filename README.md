@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SREEHARI_S_K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssksreehari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sreehari-s-kumar-455a6a100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreehari-s-kumar-455a6a100/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sreehariskumar//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreehari-s-kumar-455a6a100/" height="30" width="40" /></a>
 <a href="https://instagram.com/sreehari_s_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreehari_s_kumar" height="30" width="40" /></a>
 <a href="https://medium.com/@ssksreehari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ssksreehari" height="30" width="40" /></a>
 </p>
